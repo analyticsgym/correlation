@@ -27,7 +27,7 @@ for(p in required_packages) {
     software
   - Pearson correlation coefficient most applicable for measuring linear
     association between variables
-  - Pearson r can be misleading for for datasets that have non linear
+  - Pearson r can be misleading for datasets that have non linear
     associations and/or outliers
   - [Anscombe’s
     quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) is a
