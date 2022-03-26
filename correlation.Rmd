@@ -25,7 +25,7 @@ for(p in required_packages) {
 ### 1. Plot bivariate correlations alongside correlation metrics
 - [Pearson correlation coefficient (r)](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) tends to be the default correlation method across statistical software
 - Pearson correlation coefficient most applicable for measuring linear association between variables
-- Pearson r can be misleading for for datasets that have non linear associations and/or outliers
+- Pearson r can be misleading for datasets that have non linear associations and/or outliers
 - [Anscombe's quartet](https://en.wikipedia.org/wiki/Anscombe%27s_quartet) is a famous example of 4 datasets with similar summary statistics and equal correlation values with drastically different distributions
 - Correlation metric most applicable for set 1
 
